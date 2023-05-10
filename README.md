@@ -12,6 +12,9 @@
     
     5. Inpainting through Segmentation guided by Prompts ==> CLIP Model [from OpenAI]
 
-Bonus : Creating the needed codes and functions through ChatGPT [AI]
-
+## Bonus : 
+    
+    1 . Creating the needed codes and functions through ChatGPT [AI]
+    
+    2 . Live Monitoring the weights, outputs, gradients using Wandb.ai 
     
