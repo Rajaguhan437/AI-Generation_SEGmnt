@@ -18,3 +18,5 @@
     
     2 . Live Monitoring the weights, outputs, gradients using Wandb.ai 
     
+    3 . Maintaining and pushing the changes via google drive to git hub.
+    
